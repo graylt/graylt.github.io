@@ -7,9 +7,9 @@
 ##### 💻 **2022:** 
 ##### I enrolled into General Assembly's Software Engineering Immersive Bootcamp to build upon my skills as an Interaction Designer. After 3 intense months in the program, I developed frontend and backend skills, some skills include:
 
-<sub>☛ Technical: Javascript, Python, HTML, CSS, Embedded Javascript, EJS, Node.js, Express.js, jQuery, Django, TypeScript, React.js, Redux, MongoDB, Mongoose, PostgreSQL, MySQL, SQL, NoSQL, Git, Github, RESTful Routing JSON, APIs</sub>
+<sub>☛ **Technical:** Javascript, Python, HTML, CSS, Embedded Javascript (EJS), Node.js, Express.js, jQuery, Django, TypeScript, React.js, Redux, MongoDB, Mongoose, PostgreSQL, MySQL, SQL, NoSQL, Git, Github, RESTful Routing JSON, APIs</sub>
 
-<sub>☛ *Specialties:* Programming: Web applications, Object-Oriented Programming, Fundamental Data Structures</sub>
+<sub>☛ ***Specialties:*** Programming: Web applications, Object-Oriented Programming, Fundamental Data Structures</sub>
 
 ###### *
 ###### *
@@ -17,15 +17,15 @@
 ##### 🫶 **2020-2021:** 
 ##### Inspired by [Invisible Women](https://bookshop.org/p/books/invisible-women-data-bias-in-a-world-designed-for-men-caroline-criado-perez/15136602?ean=9781419735219) and a need for a career change, I went back to school to earn a Master's in User Experience Design from MICA in 2021. During the program, I developed a passion towards building considered human connections through visual experiences. Some skills learned include:
 
-<sub>☛ Creative: UX/UI, User Research, Design Strategy, Usability Testing, Prototyping, Interaction Design, Rapid Ideation, Information Architecture, Competitive Analysis, Agile Methodology, Web Accessibility, Product Management, Adobe Creative Cloud, Figma, Sketch, InVision, Miro</sub>
+<sub>☛ **Creative:** UX/UI, User Research, Design Strategy, Usability Testing, Prototyping, Interaction Design, Rapid Ideation, Information Architecture, Competitive Analysis, Agile Methodology, Web Accessibility, Product Management, Adobe Creative Cloud, Figma, Sketch, InVision, Miro</sub>
 
-<sub>☛ *Specialties:* Design: User Experience, Interaction Design, Information Design, Visual Design, Product Design</sub>
+<sub>☛ ***Specialties:*** Design: User Experience, Interaction Design, Information Design, Visual Design, Product Design</sub>
 
 ###### *
 ###### *
 ###### *
 ##### **2019-🥚:**
-##### Born and raised in the Pacific Northwest, where I trained as an artist receiving a BFA and continued my studies in the arts in Boston before settling in NYC. 
+##### Born and raised in the Pacific Northwest where I trained as an artist receiving a BFA and continued my studies in the arts in Boston before settling in NYC. 
 
 
 ##### Besides that I like to 🏃🏻‍♀️ and watch 🎥.
